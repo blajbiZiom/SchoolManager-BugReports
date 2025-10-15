@@ -23,3 +23,6 @@ logowania
 
 Środowisko: Windows 11, Chrome 120, Wersja aplikacji: 2.3.1
 Priorytet: Krytyczny
+
+Update: Problem występuje również w przeglądarce Safari.
+Testowałem na macOS Sonoma.
